@@ -18,8 +18,9 @@ Nothing is recorded: frames are never saved to disk or sent anywhere.
 
 ## Data stored on your Mac
 
-Showpane remembers only the position and size of its own window, in its local preferences.
-Deleting the app removes them.
+Showpane remembers only the position and size of its own window and, for each app where you moved
+it, the position of the Share button. These stay in its local preferences on your Mac. Deleting
+the app removes them.
 
 ## Third parties
 

@@ -7,7 +7,7 @@ Share one window at a time in your meetings, and switch it with a click.
 1. Open Showpane. When macOS asks, allow Screen Recording in System Settings › Privacy & Security ›
    Screen & System Audio Recording, then quit and reopen Showpane.
 2. In your video call, share the window named **Showpane Mirror**.
-3. Move the pointer over the window you want to show and click **Share** in its title bar.
+3. Move the pointer over the window you want to show and click **Share** at the top right of the window.
 4. Confirm with ✓, or cancel with ✕. The window now appears in Showpane and in your meeting.
 5. To stop, click **Sharing** on that window, or **Stop** on the Showpane window.
 
