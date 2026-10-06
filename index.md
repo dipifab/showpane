@@ -17,6 +17,9 @@ Share one window at a time in your meetings, and switch it with a click.
 Allow Screen Recording in System Settings › Privacy & Security › Screen & System Audio Recording,
 then quit and reopen Showpane.
 
+**The Share button covers something I need.**
+Drag it anywhere on the window. Showpane remembers the spot for each app.
+
 **Menus and pop-ups of the shared app do not appear.**
 Showpane shows only the main window of the shared app.
 
